@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-#0-add.py
-#Michael Solomon <Mckienzie7>
+"""A Function  tha sum using python annotation"""
+
 
 def add(a: float,b:float) -> float:
+    """Return the sum of a and b"""
     return a + b
