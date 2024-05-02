@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-#2-floor.py
-#Michael Solomon <mckienzie7>
+"""function that gives floor of a float."""
 import math
 
-def floor(n:float) -> int:
+
+def floor(n: float) -> int:
+    """return floor of n"""
     return math.floor(n)
